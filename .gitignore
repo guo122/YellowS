@@ -1,4 +1,4 @@
 *.DS_Store
-*.img
 *.bin
 *out.log
+*.com
